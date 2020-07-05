@@ -6,6 +6,9 @@
 • If you want to view the deployed model, click on the following link:<br />
 Deployed at: _https://taher-iplscore.herokuapp.com_
 
+• If you are searching for Code, Algorithms used and Accuracy of the model.. you won't find it here. Click the link mentioned below for the same:
+Link: https://github.com/taherkayamkhani/AI-ML-projects/tree/master/Machine%20Learning%20Projects/IPL%20Score%20Prediction
+
 • Please do ⭐ the repository, if it helped you in anyway.
 
 • A glimpse of the web app:
